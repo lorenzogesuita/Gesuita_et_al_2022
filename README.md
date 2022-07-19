@@ -14,7 +14,7 @@ The script refers to the computational pipeline presented in figure 2A. Details 
  - a *ENSMUSG-Gene name* conversion table (Gene_list.txt)
  - a list of cytokine protein-protein interactions annotated on www.uniprot.org (ManualSTRING_Cytokine.txt)
  
-3. Go to https://version-11-0.string-db.org/cgi/download.pl?sessionId=99uSZMsNLaTe, select "Mus usculus" from the "choose an organism" menu, download the following files and put them in the datasets folder:
+3. Go to https://version-11-0.string-db.org/cgi/download.pl?sessionId=99uSZMsNLaTe, select "*Mus musculus*" from the "choose an organism" menu, download the following files and put them in the datasets folder:
  - 10090.protein.actions.v11.0.txt
  - 10090.protein.aliases.v11.0.txt
  - 10090.protein.links.detailed.v11.0.txt
