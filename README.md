@@ -3,7 +3,7 @@ This repository contains a script used in Gesuita et al. 2022, *Microglia contri
 
 The script refers to the computational pipeline presented in figure 2A. Details are reported in the paragraph "Computational screening of transcriptomic data" in the STAR Methods section.
 
-# HOW TO RUN THE CODE
+HOW TO RUN THE CODE
 
 1. choose a folder and set it as your working directory (wd).
 
@@ -14,9 +14,9 @@ The script refers to the computational pipeline presented in figure 2A. Details 
  - a ENSMUSG-Gene name conversion table (Gene_list.txt)
  - a list of cytokine protein-protein interactions annotated on www.uniprot.org (details reported in the STAR Methods section)
  
-# 3. go to https://version-11-0.string-db.org/cgi/download.pl?sessionId=99uSZMsNLaTe, select "Mus usculus" from the "choose an organism" menu, download the following files and put them in the datasets folder:
-# - 10090.protein.actions.v11.0.txt
-# - 10090.protein.aliases.v11.0.txt
-# - 10090.protein.links.detailed.v11.0.txt
+3. go to https://version-11-0.string-db.org/cgi/download.pl?sessionId=99uSZMsNLaTe, select "Mus usculus" from the "choose an organism" menu, download the following files and put them in the datasets folder:
+ - 10090.protein.actions.v11.0.txt
+ - 10090.protein.aliases.v11.0.txt
+ - 10090.protein.links.detailed.v11.0.txt
 
-# 4. run the code: the output will be three .csv files reporting all interacting proteins between microglia and SST+ interneurons, PV+ interneurons or pyramidal cells.
+4. run the code: the output will be three .csv files reporting all interacting proteins between microglia and SST+ interneurons, PV+ interneurons or pyramidal cells.
