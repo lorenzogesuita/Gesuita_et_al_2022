@@ -9,7 +9,7 @@ output: html_document
 
 # choose a folder and set it as your working directory (wd) indicating its path below; be sure to have a "/" at the end of the string.
 
-wd <- "~/Documents/University_of_Zurich_PhD/Lab/ProjectB_Microglia/STRING_Screening/STRING screening_Github Version/"
+wd <- "~/Documents/yourfolder/"
 setwd(wd)
 
 library(data.table)
